@@ -1,0 +1,9 @@
+.error{
+    color: red;
+    font-weight: bolder;
+}
+
+.main{
+    background-color: teal !important;
+    color: whitesmoke !important;
+}
